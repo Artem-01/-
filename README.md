@@ -7,7 +7,7 @@
 | індекс групи | ind	| int(7) |
 | ПІП студента | name	| varchar(50) |
 | оцінки з п’яти іспитів | scores | varchar(25) |
-| час вильоту | depature_time | int"[5]"(1) |
+| час вильоту | depature_time | int'[5]'(1) |
 | участь у суспільній роботі | public_work | int(1) |
 
 
